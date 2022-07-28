@@ -23,7 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabodhana&show_icons=true&locale=en" alt="prabodhana" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhana&layout=compact&langs_count=10)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabodhana&" alt="prabodhana" /></p>
 
